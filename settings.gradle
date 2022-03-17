@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "shivang_s_application17"
